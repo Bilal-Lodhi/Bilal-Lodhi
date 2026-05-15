@@ -7,20 +7,14 @@ I specialize in building high-performance mobile and web applications by combini
 ---
 
 ### 🛠️ Tech Stack & Skills
-
-**Frontend & Mobile**  
-![Flutter](https://shields.io) ![Dart](https://shields.io) ![UI/UX](https://shields.io)
-
-**Backend & Data**  
-![Node.js](https://shields.io) ![Python](https://shields.io) ![PostgreSQL](https://shields.io) ![REST API](https://shields.io)
-
-**AI Integration**  
-![Agentic AI](https://shields.io) ![Generative AI](https://shields.io) ![Prompt Engineering](https://shields.io)
+*   **Frontend & Mobile:** Flutter, Dart, Responsive UI/UX Design
+*   **Backend & Data:** Node.js, Python, PostgreSQL, RESTful API Design
+*   **AI Integration:** Agentic AI, Generative AI, LLM Prompt Engineering
 
 ---
 
 ### 💻 Featured Live Project
-*   **[Full-Stack TestGorilla Clone](https://testgorilla-clone-bilal.web.app/)** - A complete full-stack assessment platform simulation demonstrating end-to-end architecture, API integrations, and secure data handling.
+*   **[Full-Stack TestGorilla Clone]([https://web.app](https://testgorilla-clone-bilal.web.app/))** - A complete full-stack assessment platform simulation demonstrating end-to-end architecture, API integrations, and secure data handling.
 
 ---
 
@@ -29,7 +23,10 @@ I specialize in building high-performance mobile and web applications by combini
 
 ---
 
-### 🤝 Connect with Me
-*   **LinkedIn:** [linkedin.com/in/bilal-lodhi-0051b4246](https://linkedin.com)
 ### 📊 GitHub Analytics
-![Bilal's GitHub Stats](https://vercel.app)
+*   **View Live Stats:** [Click here to open my coding analytics panel]([https://vercel.app](https://github.com/Bilal-Lodhi)&show_icons=true&theme=dark)
+
+---
+
+### 🤝 Connect with Me
+*   **LinkedIn:** [://linkedin.com]([https://www.://linkedin.com](https://www.linkedin.com/in/bilal-lodhi-0051b4246/))
