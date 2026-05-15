@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Bilal Lodhi 👋
 
-<!--
-**Bilal-Lodhi/Bilal-Lodhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cross-Platform Mobile Developer (Flutter) | UI/UX Design | API Integration
 
-Here are some ideas to get you started:
+I specialize in building high-performance mobile and web applications by combining traditional software engineering with modern, AI-driven workflows. From rapid prototyping to architecting complex Agentic task systems, I focus on speed, scalability, and clean UX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+*   **Frontend & Mobile:** Flutter, Dart, Responsive UI/UX Design
+*   **Backend & Data:** Node.js, Python, PostgreSQL, RESTful API Design
+*   **AI Integration:** Agentic AI, Generative AI, LLM Prompt Engineering
+
+---
+
+### 💻 Featured Live Project
+*   **[Full-Stack TestGorilla Clone](https://testgorilla-clone-bilal.web.app/)** - A complete full-stack assessment platform simulation demonstrating end-to-end architecture, API integrations, and secure data handling.
+
+---
+
+### 📈 Experience Highlight
+*   **Former Full-Stack Developer Intern** at GoProAlpha (Built cross-platform features and integrated external APIs).
+
+---
+
+### 🤝 Connect with Me
+*   **LinkedIn:** [linkedin.com/in/bilal-lodhi-0051b4246](https://linkedin.com)
