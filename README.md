@@ -7,9 +7,15 @@ I specialize in building high-performance mobile and web applications by combini
 ---
 
 ### 🛠️ Tech Stack & Skills
-*   **Frontend & Mobile:** Flutter, Dart, Responsive UI/UX Design
-*   **Backend & Data:** Node.js, Python, PostgreSQL, RESTful API Design
-*   **AI Integration:** Agentic AI, Generative AI, LLM Prompt Engineering
+
+**Frontend & Mobile**  
+![Flutter](https://shields.io) ![Dart](https://shields.io) ![UI/UX](https://shields.io)
+
+**Backend & Data**  
+![Node.js](https://shields.io) ![Python](https://shields.io) ![PostgreSQL](https://shields.io) ![REST API](https://shields.io)
+
+**AI Integration**  
+![Agentic AI](https://shields.io) ![Generative AI](https://shields.io) ![Prompt Engineering](https://shields.io)
 
 ---
 
@@ -25,3 +31,5 @@ I specialize in building high-performance mobile and web applications by combini
 
 ### 🤝 Connect with Me
 *   **LinkedIn:** [linkedin.com/in/bilal-lodhi-0051b4246](https://linkedin.com)
+### 📊 GitHub Analytics
+![Bilal's GitHub Stats](https://vercel.app)
