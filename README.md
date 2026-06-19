@@ -28,5 +28,5 @@ I specialize in building high-performance mobile and web applications by combini
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Connect With Me
 *   **LinkedIn:** [://linkedin.com]([https://www.://linkedin.com](https://www.linkedin.com/in/bilal-lodhi-0051b4246/))
