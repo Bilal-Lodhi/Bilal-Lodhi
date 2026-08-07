@@ -65,7 +65,7 @@ I build high-performance mobile and web applications by combining traditional so
 
 Consistent GitHub contributor - 445 contributions in 2026, concentrated in the last few months.
 
-![Bilal Lodhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bilal-Lodhi&show_icons=true&theme=dark)
+![GitHub followers](https://img.shields.io/github/followers/Bilal-Lodhi?style=social)
 
 [![Open my GitHub analytics](https://img.shields.io/badge/GitHub-Open%20Profile-181717?logo=github&logoColor=white)](https://github.com/Bilal-Lodhi)
 
