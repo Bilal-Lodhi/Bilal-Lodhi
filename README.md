@@ -63,7 +63,7 @@ I build high-performance mobile and web applications by combining traditional so
 
 ### 📊 GitHub Analytics
 
-Consistent GitHub contributor - 445 contributions in 2026, concentrated in the last few months.
+Consistent GitHub contributor - 1,000+ contributions in 2026, concentrated in the last few months.
 
 ![GitHub followers](https://img.shields.io/github/followers/Bilal-Lodhi?style=social)
 
