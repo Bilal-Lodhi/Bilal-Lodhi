@@ -4,6 +4,8 @@
 
 I build high-performance mobile and web applications by combining traditional software engineering with modern, AI-driven workflows. I develop features one by one - implementing, testing, and debugging each step - with a sharp eye for security, such as authorization checks that stop users from accessing other accounts' data. From rapid prototyping to architecting complex Agentic task systems, I focus on speed, scalability, and clean UX.
 
+📫 **Email:** [braza4715@gmail.com](mailto:braza4715@gmail.com)
+
 ---
 
 ### 🛠️ Tech Stack & Skills
@@ -61,7 +63,18 @@ I build high-performance mobile and web applications by combining traditional so
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bilal-Lodhi&show_icons=true&theme=radical&hide_border=true" alt="Bilal's GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=Bilal-Lodhi&theme=radical&hide_border=true" alt="Bilal's GitHub streak" />
+</p>
+
+### 📌 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilal-Lodhi&theme=react-dark&hide_border=true&area=true" alt="Bilal's GitHub contribution graph" />
+</p>
 
 Consistent GitHub contributor - 1,000+ contributions in 2026, concentrated in the last few months.
 
