@@ -70,12 +70,6 @@ I build high-performance mobile and web applications by combining traditional so
   <img src="https://streak-stats.demolab.com?user=Bilal-Lodhi&theme=radical&hide_border=true" alt="Bilal's GitHub streak" />
 </p>
 
-### 📌 GitHub Contributions
-
-<p align="center">
-  <img src="https://ghchart.xqsit94.in/dark:default/Bilal-Lodhi" alt="Bilal's GitHub contribution graph" />
-</p>
-
 Consistent GitHub contributor - 1,000+ contributions in 2026, concentrated in the last few months.
 
 ![GitHub followers](https://img.shields.io/github/followers/Bilal-Lodhi?style=social)
