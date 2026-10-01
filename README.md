@@ -63,17 +63,14 @@ I build high-performance mobile and web applications by combining traditional so
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Stats
 
-<!-- GITHUB_ACTIVITY:START -->
-- **Contributions in the last 365 days:** `2,163`
-- **Commits in the last 365 days:** `490`
-- **Pull requests opened:** `132`
-- **Issues opened:** `17`
-- **Pull request reviews:** `0`
-- _Fetched from GitHub's official contribution data on `2026-10-01 07:54 UTC`._
-<!-- GITHUB_ACTIVITY:END -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bilal-Lodhi&show_icons=true&theme=radical&hide_border=true&hide_rank=true" alt="Bilal's live GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=Bilal-Lodhi&theme=radical&hide_border=true" alt="Bilal's live GitHub contribution streak" />
+</p>
 
+Live activity cards are fetched from GitHub.
 
 ![GitHub followers](https://img.shields.io/github/followers/Bilal-Lodhi?style=social)
 
