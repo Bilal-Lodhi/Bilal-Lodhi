@@ -63,14 +63,13 @@ I build high-performance mobile and web applications by combining traditional so
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bilal-Lodhi&show_icons=true&theme=radical&hide_border=true&hide_rank=true" alt="Bilal's live GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=Bilal-Lodhi&theme=radical&hide_border=true" alt="Bilal's live GitHub contribution streak" />
 </p>
 
-Live activity cards are fetched from GitHub.
+Live contribution data is fetched from GitHub.
 
 ![GitHub followers](https://img.shields.io/github/followers/Bilal-Lodhi?style=social)
 
