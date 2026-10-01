@@ -1,0 +1,41 @@
+name: Refresh profile activity
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - scripts/update_profile_stats.py
+      - .github/workflows/refresh-profile-stats.yml
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Fetch official GitHub contribution totals
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROFILE_LOGIN: Bilal-Lodhi
+        run: python3 scripts/update_profile_stats.py
+
+      - name: Commit refreshed profile activity
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Profile activity is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh live profile activity"
+          git push
