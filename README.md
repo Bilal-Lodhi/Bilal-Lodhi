@@ -73,7 +73,7 @@ I build high-performance mobile and web applications by combining traditional so
 ### 📌 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilal-Lodhi&theme=react-dark&hide_border=true&area=true" alt="Bilal's GitHub contribution graph" />
+  <img src="https://ghchart.xqsit94.in/dark:default/Bilal-Lodhi" alt="Bilal's GitHub contribution graph" />
 </p>
 
 Consistent GitHub contributor - 1,000+ contributions in 2026, concentrated in the last few months.
