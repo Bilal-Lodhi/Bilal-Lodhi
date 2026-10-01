@@ -66,13 +66,14 @@ I build high-performance mobile and web applications by combining traditional so
 ### 📊 GitHub Activity
 
 <!-- GITHUB_ACTIVITY:START -->
-- **Contributions in the last 365 days:** `Refreshing from GitHub...`
-- **Commits in the last 365 days:** `Refreshing from GitHub...`
-- **Pull requests opened:** `Refreshing from GitHub...`
-- **Issues opened:** `Refreshing from GitHub...`
-- **Pull request reviews:** `Refreshing from GitHub...`
-- _This block is automatically refreshed from GitHub's official contribution data._
+- **Contributions in the last 365 days:** `2,163`
+- **Commits in the last 365 days:** `490`
+- **Pull requests opened:** `132`
+- **Issues opened:** `17`
+- **Pull request reviews:** `0`
+- _Fetched from GitHub's official contribution data on `2026-10-01 07:54 UTC`._
 <!-- GITHUB_ACTIVITY:END -->
+
 
 ![GitHub followers](https://img.shields.io/github/followers/Bilal-Lodhi?style=social)
 
